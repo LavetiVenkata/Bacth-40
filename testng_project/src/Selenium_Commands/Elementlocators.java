@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Elementlocators {
 
-	WebDriver driver;
+	public static WebDriver driver;
 
 	public void invokeBrowser(String url)
 	{
